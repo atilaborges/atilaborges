@@ -2,9 +2,9 @@
 <h1 align="left">Hi, I'm Átila Borges</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atilaborges&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I'm just  Web Developer
+- 🔥 I'm studying Web Developer
 
-- 🔭 I’m currently studying **JavaScript, HTML, CSS, SQL, Node.JS**
+- 🔭 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS**
 
 - 👨‍💻 All of my projects are available at [atilaborges.dev](https://atilaborges.dev)
 
