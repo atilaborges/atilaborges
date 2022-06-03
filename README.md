@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- 👨‍💻 All of my projects are available at [atilaborges.dev](https://atilaborges.dev)
+- 👨‍💻 All of my projects are available at [atilaborges](https://atilaborges)
 
 <br><br>
 
