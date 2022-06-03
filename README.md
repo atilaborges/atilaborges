@@ -33,15 +33,15 @@
 
 <br><br>
 ## 🔥 Repositórios Principais
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/atilaborges/Finans">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=Finans&theme=vision-friendly-dark" />
 </a>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/atilaborges/Spotify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=Spotify&theme=vision-friendly-dark" />
 </a>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/atilaborges/DsmoviePro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=DsmoviePro&theme=vision-friendly-dark" />
 </a>
 <br><br>
