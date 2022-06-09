@@ -33,6 +33,7 @@
 
 <br><br>
 ## 🔥 Repositórios Principais
+<br>
 <a href="https://github.com/atilaborges/mata_mosquito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=mata_mosquito&theme=vision-friendly-dark" />
 </a>
@@ -48,4 +49,4 @@
 <a href="https://github.com/atilaborges/DsmoviePro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=DsmoviePro&theme=vision-friendly-dark" />
 </a>
-<br><br>
+<br>
