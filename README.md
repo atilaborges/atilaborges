@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/atilaborges/ef164109f31756525b270b6ffe4f5389/raw/04958f53d6ff043c41ac73e7e99a2f346a1a22ec/githubcard.svg"/>
+<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/atilaborges/ef164109f31756525b270b6ffe4f5389/raw/04958f53d6ff043c41ac73e7e99a2f346a1a22ec/githubcard.svg"/>
 <h1 align="left">Hi, I'm Átila Borges</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atilaborges&color=yellow" alt="Profile views" /> </p>
 
@@ -33,6 +33,10 @@
 
 <br><br>
 ## 🔥 Repositórios Principais
+<a href="https://github.com/atilaborges/mata_mosquito">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=mata_mosquito&theme=vision-friendly-dark" />
+</a>
+<br>
 <a href="https://github.com/atilaborges/Finans">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=Finans&theme=vision-friendly-dark" />
 </a>
