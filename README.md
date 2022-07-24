@@ -37,9 +37,8 @@
 ## 🔥 Repositórios Principais
 <br>
 <a href="https://github.com/atilaborges/ignite-Lab-Rockethelp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=mata_mosquito&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=ignite-Lab-Rockethelp&theme=vision-friendly-dark" />
 </a>
-<br>
 <br>
 <a href="https://github.com/atilaborges/mata_mosquito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atilaborges&repo=mata_mosquito&theme=vision-friendly-dark" />
